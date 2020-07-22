@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/internet-shop/static/css/main.dfd3fb1c.chunk.css",
-    "main.js": "/internet-shop/static/js/main.ce19cc0d.chunk.js",
-    "main.js.map": "/internet-shop/static/js/main.ce19cc0d.chunk.js.map",
+    "main.css": "/internet-shop/static/css/main.9f56180a.chunk.css",
+    "main.js": "/internet-shop/static/js/main.f8801fa0.chunk.js",
+    "main.js.map": "/internet-shop/static/js/main.f8801fa0.chunk.js.map",
     "runtime-main.js": "/internet-shop/static/js/runtime-main.d1748a75.js",
     "runtime-main.js.map": "/internet-shop/static/js/runtime-main.d1748a75.js.map",
-    "static/js/2.2e3e41a7.chunk.js": "/internet-shop/static/js/2.2e3e41a7.chunk.js",
-    "static/js/2.2e3e41a7.chunk.js.map": "/internet-shop/static/js/2.2e3e41a7.chunk.js.map",
+    "static/js/2.b945e83c.chunk.js": "/internet-shop/static/js/2.b945e83c.chunk.js",
+    "static/js/2.b945e83c.chunk.js.map": "/internet-shop/static/js/2.b945e83c.chunk.js.map",
     "index.html": "/internet-shop/index.html",
-    "precache-manifest.0aeabc9238b6019811f962ae73ccde38.js": "/internet-shop/precache-manifest.0aeabc9238b6019811f962ae73ccde38.js",
+    "precache-manifest.4b7d3ac77b24b2113bbd23c2d83be3e7.js": "/internet-shop/precache-manifest.4b7d3ac77b24b2113bbd23c2d83be3e7.js",
     "service-worker.js": "/internet-shop/service-worker.js",
-    "static/css/main.dfd3fb1c.chunk.css.map": "/internet-shop/static/css/main.dfd3fb1c.chunk.css.map",
-    "static/js/2.2e3e41a7.chunk.js.LICENSE.txt": "/internet-shop/static/js/2.2e3e41a7.chunk.js.LICENSE.txt"
+    "static/css/main.9f56180a.chunk.css.map": "/internet-shop/static/css/main.9f56180a.chunk.css.map",
+    "static/js/2.b945e83c.chunk.js.LICENSE.txt": "/internet-shop/static/js/2.b945e83c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d1748a75.js",
-    "static/js/2.2e3e41a7.chunk.js",
-    "static/css/main.dfd3fb1c.chunk.css",
-    "static/js/main.ce19cc0d.chunk.js"
+    "static/js/2.b945e83c.chunk.js",
+    "static/css/main.9f56180a.chunk.css",
+    "static/js/main.f8801fa0.chunk.js"
   ]
 }
